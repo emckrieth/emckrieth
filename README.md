@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elvin - Sr Support Specialist</a>
+<h1>Hi, I'm Elvin</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
