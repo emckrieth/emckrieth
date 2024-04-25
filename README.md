@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elvin <br/> IT Support </a> | Systems Admin </a></h1>
+<h1>Hello there, I'm Elvin <br/> IT Support </a> | Systems Admin </a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
