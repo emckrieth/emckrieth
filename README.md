@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>PowerShell</b>
-  - [AD - User account checks GUI](https://github.com/emckrieth/User-Checks)
+  - [AD - Check user accounts GUI](https://github.com/emckrieth/User-Checks)
   - [Clear disks](https://github.com/emckrieth/Clear-Disks)
 
 - <b>C/C++</b>
