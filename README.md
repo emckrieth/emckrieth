@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
-  - [Active Directory - Home Lab](https://github.com/emckrieth/LABURL)
+  - [Active Directory - User account checks](https://github.com/emckrieth/LABURL)
 
 <h2>📄 Certifications:</h2>
 
