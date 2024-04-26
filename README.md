@@ -4,7 +4,7 @@
 
 - [Active Directory - Home Lab](https://github.com/emckrieth/LABURL)
 - <b>PowerShell</b>
-  - [TBD](https://github.com/emckrieth)
+  - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe))
 
 <h2>📄 Certifications:</h2>
 
