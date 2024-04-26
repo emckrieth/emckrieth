@@ -3,8 +3,11 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory - User account checks](https://github.com/emckrieth/LABURL)
+  - [AD - User account checks](https://github.com/emckrieth/LABURL)
   - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
+
+- <b>C/C++</b>
+  - [Hello](https://github.com/emckrieth/Hello)
   
 <h2>📄 Certifications:</h2>
 
