@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory - Home Lab](https://github.com/emckrieth/LABURL)
 - <b>PowerShell</b>
-  - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe))
+  - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
+  - [Active Directory - Home Lab](https://github.com/emckrieth/LABURL)
 
 <h2>📄 Certifications:</h2>
 
