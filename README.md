@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [AD - User account checks GUI](https://github.com/emckrieth/User-Checks)
-  - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
+  - [Clear drives](https://github.com/emckrieth/)
 
 - <b>C/C++</b>
   - [Hello](https://github.com/emckrieth/Hello)
