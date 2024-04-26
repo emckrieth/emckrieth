@@ -3,9 +3,9 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
   - [Active Directory - User account checks](https://github.com/emckrieth/LABURL)
-
+  - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
+  
 <h2>📄 Certifications:</h2>
 
   - [Network+ CompTIA]() - In Progress
