@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>PowerShell</b>
-  - [AD - User account checks](https://github.com/emckrieth/LABURL)
+  - [AD - User account checks GUI](https://github.com/emckrieth/User-Checks)
   - [Disk-Wipe Tool](https://github.com/emckrieth/DiskWipe)
 
 - <b>C/C++</b>
