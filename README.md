@@ -16,7 +16,7 @@
   - [HDI Troubleshooting and Problem-Solving](https://hdi-icmi.docebosaas.com/lms/index.php?r=myActivities/downloadCertificate&course_id=15&id_user=33192)
   - [HDI Desktop Advanced Support Technician](https://hdi-icmi.docebosaas.com/lms/index.php?r=myActivities/downloadCertificate&course_id=5&id_user=33192)
 
-<h2>🤳 Connect w/ me:</h2>
+<h2>🤳 Lets connect:</h2>
 
 [<img align="left" alt="ElvinMckrieth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
