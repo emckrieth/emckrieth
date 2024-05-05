@@ -7,7 +7,7 @@
   - [Clear disks](https://github.com/emckrieth/Clear-Disks)
 
 - <b>C/C++</b>
-  - [Hello](https://github.com/emckrieth/Hello)
+  - [Hello](https://github.com/emckrieth/Hello) 👋
   
 <h2>📄 Certifications:</h2>
 
