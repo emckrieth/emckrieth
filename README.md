@@ -1,41 +1,44 @@
-<h1>Hi, I'm Elvin <br/> <a href="https://github.com/emckrieth">IT Support Engineer </a> | ITIL </a></h1>
+# Hi, I'm Elvin McKrieth
 
-<h2>👨‍💻 IT Projects:</h2>
+IT Support Engineer focused on troubleshooting, production support, scripting, SQL investigation, and clear technical communication.
 
-- <b>PowerShell</b>
-  - [AD GUI - Check user accounts](https://github.com/emckrieth/User-Checks)
-  - [Clear disks](https://github.com/emckrieth/Clear-Disks)
+## Featured Production Support Projects
 
-- <b>C/C++</b>
-  - [Hello](https://github.com/emckrieth/Hello) 👋
-  
-<h2>📄 Certifications:</h2>
+- [API Support Lab](https://github.com/emckrieth/api-support-lab)  
+  Mock API and webhook troubleshooting lab with incident reproduction, request logging, tests, Docker, runbooks, and escalation documentation.
 
-  - [Network+ CompTIA]() - In Progress
-  - [Windows PowerShell: Foundation Skills](https://urldefense.com/v3/__https://workshopplus.eventbuilder.com/event/76200/certificate__;!!JYRgswAx!pfdxcVGJdfZ39UZidq4vq5m09anb7D_NXVBBO5MbJ_zhTqtIuTXDzmXMnLTuo-ReQPV8bPpFO2zst1NrBYBdYlbT$)
-  - [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/8AVZHZ6ADWS3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-  - [Command Line Basics in Linux](https://www.coursera.org/account/accomplishments/verify/FMDKLW6AY3KH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
-  - [Introduction to Docker: Build Your Own Portfolio Site](https://www.coursera.org/account/accomplishments/verify/GY8FZ222UFLA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
-  - [HDI Troubleshooting and Problem-Solving](https://hdi-icmi.docebosaas.com/lms/index.php?r=myActivities/downloadCertificate&course_id=15&id_user=33192)
-  - [HDI Desktop Advanced Support Technician](https://hdi-icmi.docebosaas.com/lms/index.php?r=myActivities/downloadCertificate&course_id=5&id_user=33192)
+- [SQL Support Lab](https://github.com/emckrieth/sql-support-lab)  
+  SQL investigation lab for failed verifications, duplicate records, webhook failures, incident pattern analysis, and PostgreSQL-style troubleshooting.
 
-<h2>🤳 Lets connect:</h2>
+## Additional IT Support Projects
 
-[<img align="left" alt="ElvinMckrieth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [User Checks](https://github.com/emckrieth/User-Checks)  
+  PowerShell GUI for Active Directory account support checks, lockout investigation, password status review, and analyst workflow support.
 
-[linkedin]: https://www.linkedin.com/in/emckrieth/
+- [Clear Disks](https://github.com/emckrieth/Clear-Disks)  
+  PowerShell disk sanitation script demonstrating Windows administration, DiskPart automation, input validation, and operational guardrails.
 
-<!--
-**emckrieth/emckrieth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Hello](https://github.com/emckrieth/Hello)  
+  Introductory C++ console exercise.
 
-Here are some ideas to get me started:
+## Certifications and Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Network+ CompTIA - In Progress
+- Windows PowerShell: Foundation Skills
+- Google IT Support Professional Certificate
+- Command Line Basics in Linux
+- Introduction to Docker: Build Your Own Portfolio Site
+- HDI Troubleshooting and Problem-Solving
+- HDI Desktop Advanced Support Technician
+
+## Current Focus
+
+- Production support engineering
+- SQL and database troubleshooting
+- Linux and cloud fundamentals
+- Incident, problem, and change management practices
+- PowerShell and automation for support workflows
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/emckrieth/)
