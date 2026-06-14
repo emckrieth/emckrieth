@@ -1,8 +1,11 @@
 # Hi, I'm Elvin McKrieth
 
-IT Support Engineer focused on troubleshooting, production support, scripting, SQL investigation, and clear technical communication.
+IT Support Engineer focused on troubleshooting, production support, scripting, SQL investigation, identity operations, and clear technical communication.
 
 ## Featured Production Support Projects
+
+- [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
+  PowerShell identity operations lab for joiner, mover, and leaver workflows, audit logging, access review, and ITSM-style operational documentation.
 
 - [API Support Lab](https://github.com/emckrieth/api-support-lab)  
   Mock API and webhook troubleshooting lab with incident reproduction, request logging, tests, Docker, runbooks, and escalation documentation.
@@ -34,6 +37,7 @@ IT Support Engineer focused on troubleshooting, production support, scripting, S
 ## Current Focus
 
 - Production support engineering
+- Identity and access management operations
 - SQL and database troubleshooting
 - Linux and cloud fundamentals
 - Incident, problem, and change management practices
