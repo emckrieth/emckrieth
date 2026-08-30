@@ -2,7 +2,7 @@
 
 IT Support Engineer focused on troubleshooting, production support, scripting, SQL investigation, identity operations, and clear technical communication.
 
-## Featured Production Support Projects
+## My Support Projects
 
 - [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
   PowerShell identity operations lab for joiner, mover, and leaver workflows, audit logging, access review, and ITSM-style operational documentation.
@@ -13,7 +13,7 @@ IT Support Engineer focused on troubleshooting, production support, scripting, S
 - [SQL Support Lab](https://github.com/emckrieth/sql-support-lab)  
   SQL investigation lab for failed verifications, duplicate records, webhook failures, incident pattern analysis, and PostgreSQL-style troubleshooting.
 
-## Additional IT Support Projects
+## Additional Support Projects
 
 - [User Checks](https://github.com/emckrieth/User-Checks)  
   PowerShell GUI for Active Directory account support checks, lockout investigation, password status review, and analyst workflow support.
