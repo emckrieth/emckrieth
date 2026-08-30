@@ -3,6 +3,8 @@
 IT Support Engineer focused on troubleshooting, production support, scripting, SQL investigation, identity operations, and clear technical communication.
 
 ## My Support Projects
+- [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
+  PowerShell endpoint operations lab for device health scoring, alert triage, safe remediation decisions, identity access findings, audit logging, and ITSM-style reporting.
 
 - [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
   PowerShell identity operations lab for joiner, mover, and leaver workflows, audit logging, access review, and ITSM-style operational documentation.
@@ -49,5 +51,3 @@ IT Support Engineer focused on troubleshooting, production support, scripting, S
 
 ## Featured Production Support Projects
 
-- [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
-  PowerShell endpoint operations lab for device health scoring, alert triage, safe remediation decisions, identity access findings, audit logging, and ITSM-style reporting.
