@@ -36,15 +36,6 @@ I'm a hands-on enterprise support engineer moving deeper into systems, IAM, auto
 - HDI Troubleshooting and Problem-Solving
 - HDI Desktop Advanced Support Technician
 
-## Current Focus
-
-- Production support engineering
-- Identity and access management operations
-- SQL and database troubleshooting
-- Linux and cloud fundamentals
-- Incident, problem, and change management practices
-- PowerShell and automation for support workflows
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/emckrieth/)
