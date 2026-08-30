@@ -46,3 +46,8 @@ IT Support Engineer focused on troubleshooting, production support, scripting, S
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/emckrieth/)
+
+## Featured Production Support Projects
+
+- [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
+  PowerShell endpoint operations lab for device health scoring, alert triage, safe remediation decisions, identity access findings, audit logging, and ITSM-style reporting.
