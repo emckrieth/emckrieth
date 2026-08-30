@@ -49,5 +49,3 @@ IT Support Engineer focused on troubleshooting, production support, scripting, S
 
 [LinkedIn](https://www.linkedin.com/in/emckrieth/)
 
-## Featured Production Support Projects
-
