@@ -1,6 +1,6 @@
 # Hi, I'm Elvin McKrieth
 
-I'm a hands-on enterprise support engineer moving deeper into systems, IAM, automation, and operations engineering.
+I'm a hands-on enterprise support engineer moving deeper into endpoint operations, identity and access management, automation, and infrastructure support.
 
 ## My Support Projects
 - [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
