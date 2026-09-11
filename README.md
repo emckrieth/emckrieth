@@ -27,7 +27,6 @@ I'm a hands-on enterprise support engineer moving deeper into endpoint operation
 - [Clear Disks](https://github.com/emckrieth/Clear-Disks)  
   PowerShell disk sanitation script demonstrating Windows administration, DiskPart automation, input validation, and operational guardrails.
 
-
 ## Certifications and Learning
 
 - Network+ CompTIA - In Progress
