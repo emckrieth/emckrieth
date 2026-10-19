@@ -14,7 +14,7 @@ I'm a hands-on enterprise support engineer moving deeper into endpoint operation
   PowerShell identity operations lab for joiner, mover, and leaver workflows, audit logging, access review, and ITSM-style operational documentation.
 
 - [API Support Lab](https://github.com/emckrieth/api-support-lab)  
-  Mock API and fraud decision lab: explainable risk scoring, a bad-rules-release incident investigated with decision replay, request ID tracing, Prometheus metrics and tested alerts, plus webhook troubleshooting, runbooks, and CI.
+  Mock API and fraud decision lab for support engineering: incident reproduction, false-positive investigation, structured logs, Prometheus metrics, and alerts.
 
 - [SQL Support Lab](https://github.com/emckrieth/sql-support-lab)  
   SQL investigation lab for failed verifications, duplicate records, webhook failures, incident pattern analysis, and PostgreSQL-style troubleshooting.
