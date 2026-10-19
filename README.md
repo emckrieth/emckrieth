@@ -5,7 +5,7 @@ I'm a hands-on enterprise support engineer moving deeper into endpoint operation
 ## My Support Projects
 
 - [AI Support Triage Toolkit](https://github.com/emckrieth/ai-support-triage-toolkit)  
-  AI-assisted support triage toolkit for sanitized evidence review, baseline outlier detection, runbook matching, escalation notes, and an interactive dashboard.
+  AI-assisted support triage and support operations toolkit: sanitized evidence review, runbook matching, and escalation notes, plus a team lead view with SLA attainment, systemic issue detection, ticket quality reviews, and coaching insights. [Triage dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/) · [Support ops dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/support-ops.html)
 
 - [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
   PowerShell endpoint operations lab for device health scoring, alert triage, safe remediation decisions, identity access findings, audit logging, and ITSM-style reporting.
