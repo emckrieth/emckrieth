@@ -24,9 +24,6 @@ I'm a hands-on enterprise support engineer moving deeper into endpoint operation
 - [User Checks](https://github.com/emckrieth/User-Checks)  
   PowerShell GUI for Active Directory account support checks, lockout investigation, password status review, and analyst workflow support.
 
-- [Clear Disks](https://github.com/emckrieth/Clear-Disks)  
-  PowerShell disk sanitation script demonstrating Windows administration, DiskPart automation, input validation, and operational guardrails.
-
 ## Certifications and Learning
 
 - Network+ CompTIA - In Progress
