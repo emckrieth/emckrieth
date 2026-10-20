@@ -1,6 +1,6 @@
 # Hi, I'm Elvin McKrieth
 
-Enterprise support engineer focused on API support, identity and access management, endpoint operations, and automation. I build tools that turn messy tickets, logs, and metrics into clear decisions, and I document them so other people can run them.
+Enterprise support engineer working across API support, identity and access management, endpoint operations, and automation. My projects cover incident investigation, support operations reporting, and the runbooks and documentation that go with them.
 
 **Looking for:** Support Engineering and IT Operations roles, including lead roles.
 
