@@ -1,28 +1,38 @@
 # Hi, I'm Elvin McKrieth
 
-I'm a hands-on enterprise support engineer moving deeper into endpoint operations, identity and access management, automation, and infrastructure support.
+Enterprise support engineer focused on API support, identity and access management, endpoint operations, and automation. I build tools that turn messy tickets, logs, and metrics into clear decisions, and I document them so other people can run them.
 
-## My Support Projects
+**Looking for:** Support Engineering and IT Operations roles, including lead roles.
 
-- [AI Support Triage Toolkit](https://github.com/emckrieth/ai-support-triage-toolkit)  
-  AI-assisted support triage and support operations toolkit: sanitized evidence review, runbook matching, and escalation notes, plus a team lead view with SLA attainment, systemic issue detection, ticket quality reviews, and coaching insights. [Triage dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/) · [Support ops dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/support-ops.html)
-
-- [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
-  PowerShell endpoint operations lab for device health scoring, alert triage, safe remediation decisions, identity access findings, audit logging, and ITSM-style reporting.
-
-- [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
-  PowerShell identity operations lab for joiner, mover, and leaver workflows, audit logging, access review, and ITSM-style operational documentation.
+## Featured Projects
 
 - [API Support Lab](https://github.com/emckrieth/api-support-lab)  
-  Mock API and fraud decision lab for support engineering: incident reproduction, false-positive investigation, structured logs, Prometheus metrics, and alerts.
+  Mock API and fraud decision lab for support engineering: incident reproduction, false-positive investigation, structured logs, Prometheus metrics, and alerts. Includes a full incident lifecycle with hotfix verification and a postmortem.
+
+- [AI Support Triage Toolkit](https://github.com/emckrieth/ai-support-triage-toolkit)  
+  Incident triage with sanitized evidence and runbook matching, plus a team lead view: SLA attainment by priority and customer tier, systemic issue detection, ticket quality reviews, and coaching insights. [Triage dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/) · [Support ops dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/support-ops.html)
+
+- [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
+  PowerShell joiner, mover, and leaver workflows with audit logging, access reviews, and controls mapping.
+
+- [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
+  PowerShell device health scoring, alert triage, safe remediation decisions, audit logging, and ITSM-style reporting.
 
 - [SQL Support Lab](https://github.com/emckrieth/sql-support-lab)  
-  SQL investigation lab for failed verifications, duplicate records, webhook failures, incident pattern analysis, and PostgreSQL-style troubleshooting.
+  SQL investigations for failed verifications, duplicate records, webhook failures, and incident patterns.
 
-## Additional Support Projects
+## More Projects
 
 - [User Checks](https://github.com/emckrieth/User-Checks)  
-  PowerShell GUI for Active Directory account support checks, lockout investigation, password status review, and analyst workflow support.
+  PowerShell GUI for Active Directory lockout, password, and account status checks.
+
+## Skills
+
+- **Support engineering:** REST APIs, webhooks, request tracing, incident response, escalation, postmortems
+- **Data and observability:** SQL, structured logging, Prometheus metrics and alerting
+- **Identity and endpoints:** Active Directory, joiner/mover/leaver workflows, access reviews, device health
+- **Automation:** Python, PowerShell, FastAPI, Docker, GitHub Actions
+- **Operations:** SLAs, on-call and severity frameworks, QA review, runbooks, ITIL practices
 
 ## Certifications and Learning
 
