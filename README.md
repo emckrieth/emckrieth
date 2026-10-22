@@ -13,7 +13,7 @@ Enterprise support engineer working across API support, identity and access mana
   Incident triage with sanitized evidence and runbook matching, plus a team lead view: SLA attainment by priority and customer tier, systemic issue detection, ticket quality reviews, and coaching insights. [Triage dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/) Â· [Support ops dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/support-ops.html)
 
 - [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
-  PowerShell joiner, mover, and leaver workflows with audit logging, access reviews, and controls mapping.
+  Identity and asset operations lab connecting live Slack requests to local Keycloak and Snipe-IT: explicit approval, provisioning, retry handling, offboarding, and asset check-in. I completed a guided onboarding/offboarding walkthrough and resolved a signing-secret configuration error. Includes automated PKCE and TOTP checks alongside the original PowerShell simulations. [Hands-on walkthrough](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/slack-live-walkthrough.md) · [Architecture and case study](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/approved-asset-workflow.md)
 
 - [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
   PowerShell device health scoring, alert triage, safe remediation decisions, audit logging, and ITSM-style reporting.
@@ -25,6 +25,12 @@ Enterprise support engineer working across API support, identity and access mana
 
 - [User Checks](https://github.com/emckrieth/User-Checks)  
   PowerShell GUI for Active Directory lockout, password, and account status checks.
+
+## How I Use AI in These Projects
+
+I use Claude and Codex for implementation assistance, debugging, and documentation. Claude provided substantial implementation assistance in several repos; Codex implemented and tested the identity, Slack, and asset integration. Project documentation records that assistance and the verification evidence.
+
+For the identity lab, I installed the Slack app, submitted real requests, and personally ran the guided approval, onboarding, offboarding, and simulated receipt steps. These are sandbox demonstrations: approval uses a local operator role, physical receipt is simulated, and the labs do not establish production ownership or comprehensive independent code review. See the [walkthrough and evidence boundaries](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/slack-live-walkthrough.md).
 
 ## Skills
 
