@@ -4,6 +4,16 @@ Enterprise support engineer working across API support, identity and access mana
 
 **Looking for:** Support Engineering and IT Operations roles, including lead roles.
 
+## Recent Hands-On Work
+
+| Project | What I personally performed | Evidence |
+| --- | --- | --- |
+| Identity and asset operations | Installed a Slack app, corrected a signing-secret mismatch, and ran guided onboarding/offboarding and simulated asset receipt | [Walkthrough](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/slack-live-walkthrough.md) |
+| SLA reporting | Applied a guided missing-data correction, added supplied regression tests, and ran the support-operations tests | [Fix and verification](https://github.com/emckrieth/ai-support-triage-toolkit/blob/main/docs/sla-coaching-fix.md) |
+| API incident investigation | Ran six HTTP scenarios, inspected a request trace, generated hotfix replay evidence, and ran 29 passing tests | [Walkthrough](https://github.com/emckrieth/api-support-lab/blob/main/docs/incident-reproduction-walkthrough.md) |
+
+These are fictional lab scenarios with guided execution. [Contribution details and boundaries](docs/portfolio-evidence.md) distinguish my actions from AI assistance.
+
 ## Featured Projects
 
 - [API Support Lab](https://github.com/emckrieth/api-support-lab)  
@@ -13,7 +23,7 @@ Enterprise support engineer working across API support, identity and access mana
   Incident triage with sanitized evidence and runbook matching, plus a team lead view: SLA attainment by priority and customer tier, systemic issue detection, ticket quality reviews, and coaching insights. [Triage dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/) · [Support ops dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/support-ops.html)
 
 - [Identity Lifecycle Automation Lab](https://github.com/emckrieth/identity-lifecycle-automation-lab)  
-  Identity and asset operations lab connecting live Slack requests to local Keycloak and Snipe-IT: explicit approval, provisioning, retry handling, offboarding, and asset check-in. I completed a guided onboarding/offboarding walkthrough and resolved a signing-secret configuration error. Includes automated PKCE and TOTP checks alongside the original PowerShell simulations. [Hands-on walkthrough](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/slack-live-walkthrough.md) | [Architecture and case study](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/approved-asset-workflow.md)
+  Live Slack intake connected to local Keycloak and Snipe-IT, with approval gates, retry handling, offboarding and verified asset check-in. Includes PKCE/TOTP protocol checks and the original PowerShell simulations. [Case study](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/approved-asset-workflow.md)
 
 - [Endpoint Ops Monitoring](https://github.com/emckrieth/endpoint-ops-monitoring)  
   PowerShell device health scoring, alert triage, safe remediation decisions, audit logging, and ITSM-style reporting.
@@ -28,9 +38,7 @@ Enterprise support engineer working across API support, identity and access mana
 
 ## How I Use AI in These Projects
 
-I use Claude and Codex for implementation assistance, debugging, and documentation. Claude provided substantial implementation assistance in several repos; Codex implemented and tested the identity, Slack, and asset integration. Project documentation records that assistance and the verification evidence.
-
-For the identity lab, I installed the Slack app, submitted real requests, and personally ran the guided approval, onboarding, offboarding, and simulated receipt steps. These are sandbox demonstrations: approval uses a local operator role, physical receipt is simulated, and the labs do not establish production ownership or comprehensive independent code review. See the [walkthrough and evidence boundaries](https://github.com/emckrieth/identity-lifecycle-automation-lab/blob/main/docs/slack-live-walkthrough.md).
+Claude and Codex provided substantial implementation, debugging, test and documentation assistance. I preserve attribution and record the work I personally performed, observed results and remaining limits in the linked case studies. [Detailed contribution record](docs/portfolio-evidence.md)
 
 ## Skills
 
