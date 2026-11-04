@@ -17,7 +17,7 @@ These are fictional lab scenarios with guided execution. [Contribution details a
 ## Featured Projects
 
 - [API Support Lab](https://github.com/emckrieth/api-support-lab)  
-  Mock API and fraud decision lab for support engineering: incident reproduction, false-positive investigation, structured logs, Prometheus metrics, and alerts. Includes a full incident lifecycle with hotfix verification and a postmortem.
+  Mock API and fraud decision lab for API troubleshooting: incident reproduction, false-positive investigation, structured logs, Prometheus metrics, and alerts. Includes a full incident lifecycle with hotfix verification and a postmortem.
 
 - [AI Support Triage Toolkit](https://github.com/emckrieth/ai-support-triage-toolkit)  
   Incident triage with sanitized evidence and runbook matching, plus a team lead view: SLA attainment by priority and customer tier, systemic issue detection, ticket quality reviews, and coaching insights. [Triage dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/) · [Support ops dashboard](https://emckrieth.github.io/ai-support-triage-toolkit/support-ops.html)
@@ -42,7 +42,7 @@ Claude and Codex provided substantial implementation, debugging, test and docume
 
 ## Skills
 
-- **Support engineering:** REST APIs, webhooks, request tracing, incident response, escalation, postmortems
+- **Systems troubleshooting:** REST APIs, webhooks, request tracing, incident response, escalation, postmortems
 - **Data and observability:** SQL, structured logging, Prometheus metrics and alerting
 - **Identity and endpoints:** Active Directory, joiner/mover/leaver workflows, access reviews, device health
 - **Automation:** Python, PowerShell, FastAPI, Docker, GitHub Actions
