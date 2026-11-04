@@ -2,7 +2,7 @@
 
 Enterprise systems engineer working across API support, identity and access management, endpoint operations, and automation. My projects cover incident investigation, support operations reporting, and the runbooks and documentation that go with them.
 
-**Looking for:** Support Engineering and IT Operations roles, including lead roles.
+**Looking for:** Systems Engineer and IT Operations roles, including lead roles.
 
 ## Recent Hands-On Work
 
